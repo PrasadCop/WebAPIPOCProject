@@ -52,6 +52,9 @@ import internal.GlobalVariable as GlobalVariable
 RequestObject request = WSResponseManager.getInstance().getCurrentRequest()
 
 ResponseObject response = WSResponseManager.getInstance().getCurrentResponse()
-WS.verifyElementText(response, 'CapitalCityResponse.CapitalCityResult', 'Delhi')</verificationScript>
+WS.verifyElementText(response, 'CapitalCityResponse.CapitalCityResult', 'Delhi')
+
+
+assertThat(response.getResponseText()).isEqualTo(&quot;Delhi&quot;)</verificationScript>
    <wsdlAddress>http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL</wsdlAddress>
 </WebServiceRequestEntity>
