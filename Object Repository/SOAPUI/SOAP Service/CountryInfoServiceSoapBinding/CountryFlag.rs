@@ -29,7 +29,7 @@
    &lt;soapenv:Header/>
    &lt;soapenv:Body>
       &lt;web:CountryFlag>
-         &lt;web:sCountryISOCode>gero et&lt;/web:sCountryISOCode>
+         &lt;web:sCountryISOCode>IN&lt;/web:sCountryISOCode>
       &lt;/web:CountryFlag>
    &lt;/soapenv:Body>
 &lt;/soapenv:Envelope></soapBody>
@@ -39,5 +39,18 @@
    <soapServiceFunction>CountryFlag</soapServiceFunction>
    <socketTimeout>-1</socketTimeout>
    <useServiceInfoFromWsdl>false</useServiceInfoFromWsdl>
+   <verificationScript>import static org.assertj.core.api.Assertions.*
+
+import com.kms.katalon.core.testobject.RequestObject
+import com.kms.katalon.core.testobject.ResponseObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webservice.verification.WSResponseManager
+
+import groovy.json.JsonSlurper
+import internal.GlobalVariable as GlobalVariable
+
+RequestObject request = WSResponseManager.getInstance().getCurrentRequest()
+
+ResponseObject response = WSResponseManager.getInstance().getCurrentResponse()</verificationScript>
    <wsdlAddress>http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL</wsdlAddress>
 </WebServiceRequestEntity>
