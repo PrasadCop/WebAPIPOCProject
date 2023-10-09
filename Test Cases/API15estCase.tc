@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>API15estCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc74c675-dbfc-4ebb-8e77-1c8cb6f6d906</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>9dcc1c28-88cf-405b-85c1-ae35795992f4</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/DDT</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>9dcc1c28-88cf-405b-85c1-ae35795992f4</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>personname</value>
+      <variableId>cba8f0c4-0260-4810-a1e1-2998cfec40bb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>9dcc1c28-88cf-405b-85c1-ae35795992f4</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>persontitle</value>
+      <variableId>62b398ba-e3c0-4533-a4ae-ccd9f1a645d7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cba8f0c4-0260-4810-a1e1-2998cfec40bb</id>
+      <masked>false</masked>
+      <name>personname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>62b398ba-e3c0-4533-a4ae-ccd9f1a645d7</id>
+      <masked>false</masked>
+      <name>persontitle</name>
+   </variable>
+</TestCaseEntity>
