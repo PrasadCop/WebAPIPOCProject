@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_The Complete Cypress v12 Course From Zero_ecc871</name>
+   <tag></tag>
+   <elementGuidId>59b59fda-1154-4bd8-9489-837f1ac5de78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='udemy-promo-thumbnail']/p[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(2) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d5b934fd-92f5-49f0-aa0e-57c043542406</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.udemy.com/course/cypress-io-master-class/?couponCode=402295FA2C07F6A1BCAC</value>
+      <webElementGuid>d9009129-85a3-4a81-b2bb-bae15173bcec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Complete Cypress v12 Course: From Zero to Expert! [2023]</value>
+      <webElementGuid>66a982e5-1033-4cdc-9ded-3edacf59c416</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;udemy-promo-thumbnail&quot;)/p[2]/a[1]</value>
+      <webElementGuid>e0f6da57-f701-4d73-9f92-98266fb622fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='udemy-promo-thumbnail']/p[2]/a</value>
+      <webElementGuid>e50e3141-4ce5-4b62-9a39-be94aa9ec424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'The Complete Cypress v12 Course: From Zero to Expert! [2023]')]</value>
+      <webElementGuid>f5781d2c-88ee-468b-9be3-8c3e81788395</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cypress with Cucumber BDD - Beginner to Expert in 9 Hours!'])[1]/following::a[1]</value>
+      <webElementGuid>f09fb0ba-e38e-49ca-b5ce-337ef3488efa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valid until 18/10/2023.'])[1]/following::a[2]</value>
+      <webElementGuid>c7a17b9b-3b6a-42d8-a453-37c228c729e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Complete WebdriverIO Course: From Zero to Expert! [2023]'])[1]/preceding::a[1]</value>
+      <webElementGuid>6685fbcb-2ee5-4b6a-98be-33494a9cdf0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selenium Webdriver 4 New Features In Detail'])[1]/preceding::a[2]</value>
+      <webElementGuid>47a7fc70-56cf-45be-82d9-3bb0da4e07b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The Complete Cypress v12 Course: From Zero to Expert! [2023]']/parent::*</value>
+      <webElementGuid>70763944-8e14-4f63-a192-e7fa5432b101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.udemy.com/course/cypress-io-master-class/?couponCode=402295FA2C07F6A1BCAC')]</value>
+      <webElementGuid>776f58e1-a7c7-4de7-a8b4-17ea39acbf6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]/a</value>
+      <webElementGuid>bba32c0d-82c4-48bb-91e5-4136b5947c70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.udemy.com/course/cypress-io-master-class/?couponCode=402295FA2C07F6A1BCAC' and (text() = 'The Complete Cypress v12 Course: From Zero to Expert! [2023]' or . = 'The Complete Cypress v12 Course: From Zero to Expert! [2023]')]</value>
+      <webElementGuid>42617f5e-9c01-48d0-aa55-72feec8fdf3c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

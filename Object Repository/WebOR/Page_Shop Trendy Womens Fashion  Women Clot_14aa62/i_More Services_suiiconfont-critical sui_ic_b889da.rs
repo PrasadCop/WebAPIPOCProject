@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_More Services_suiiconfont-critical sui_ic_b889da</name>
+   <tag></tag>
+   <elementGuidId>badc1de2-724e-4a21-96e0-2e18d945989e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.suiiconfont-critical.sui_icon_nav_cart_24px</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>52afcff6-0629-4387-ac78-12069cb021a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>suiiconfont-critical sui_icon_nav_cart_24px</value>
+      <webElementGuid>5f653d36-55d3-436e-a70e-602fb654ac68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;c-outermost-ctn j-outermost-ctn&quot;]/header[@class=&quot;c-header j-c-header1&quot;]/div[@class=&quot;c-header2 header-optimize&quot;]/div[@class=&quot;header-height j-header-height no-focus&quot;]/div[@class=&quot;header-nav j-header-fixer&quot;]/div[@class=&quot;container-header-fluid2 header-wrap j-header-wrap  isSearchNot&quot;]/div[@class=&quot;header-right she-text-right&quot;]/div[@class=&quot;j-headerbag-container header-right-dropdown-ctn header-right-no-relative fast-cart-wrap&quot;]/div[@class=&quot;header-right-dropdown-ctn header-right-no-relative fast-cart-wrap j-fast-cart&quot;]/a[@class=&quot;j-ipad-prevent-a j-sa-cart-1&quot;]/i[@class=&quot;suiiconfont-critical sui_icon_nav_cart_24px&quot;]</value>
+      <webElementGuid>d808c151-ccc9-477d-b8d1-5cb87af7bfaa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/i</value>
+      <webElementGuid>411a1303-df44-4e17-a095-840f1d65c7c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

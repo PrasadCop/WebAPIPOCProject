@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_CONTINUE</name>
+   <tag></tag>
+   <elementGuidId>8cf41e04-957b-4ef9-995e-6fa85bcd80d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Virgin Islands (U.S.) + 1340'])[1]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.sui-button-common.sui-button-common__primary.sui-button-common__H44PX.page__login_mainButton > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e97f64c0-f7c3-4483-a3cc-443977fe738b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CONTINUE</value>
+      <webElementGuid>9bec2959-77e2-4a4c-94e2-a834048a802e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;sui-popup-parent__hidden&quot;]/div[@class=&quot;j-login-page-0&quot;]/div[1]/div[@class=&quot;sui-dialog c-login new-login-dialog page__login-newDiaglog-container page__login_newUI-Popcontainer&quot;]/div[@class=&quot;sui-dialog__ctn sui-animation__dialog_W480&quot;]/div[@class=&quot;sui-dialog__wrapper sui-dialog__W480&quot;]/div[@class=&quot;sui-dialog__body&quot;]/div[1]/div[@class=&quot;page__login_newUI&quot;]/div[@class=&quot;page__login-newUI-continue&quot;]/div[@class=&quot;actions&quot;]/div[1]/button[@class=&quot;sui-button-common sui-button-common__primary sui-button-common__H44PX page__login_mainButton&quot;]/span[1]</value>
+      <webElementGuid>81e865a3-b346-4e95-8494-b82440a917f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virgin Islands (U.S.) + 1340'])[1]/following::span[2]</value>
+      <webElementGuid>71b49145-ea21-447b-85c4-bbea548db1f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vietnam + 84'])[1]/following::span[3]</value>
+      <webElementGuid>003493dc-02b4-4c3c-9b4a-c9a701936a2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Or'])[1]/preceding::span[1]</value>
+      <webElementGuid>4a230950-ca30-4549-873d-dd2d27b6327d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue with Google'])[1]/preceding::span[3]</value>
+      <webElementGuid>ce1ba29f-a57f-4b99-a51f-a8089b3a151a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CONTINUE']/parent::*</value>
+      <webElementGuid>d76f8786-2a67-42d4-8a04-eff7cd0443f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>74a2fa55-38e8-4b99-b9ee-bbfe25147e3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'CONTINUE' or . = 'CONTINUE')]</value>
+      <webElementGuid>cc7674ca-7d27-4470-a89e-b70626554d0b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

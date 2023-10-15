@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_OK_iconfont icon-close she-close</name>
+   <tag></tag>
+   <elementGuidId>14f644f3-bd02-40cd-8848-bb80ce8a9468</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[5]/div/div/div/div/div[2]/div[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.iconfont.icon-close.she-close</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>85ff3590-8e45-4c84-be0c-5e658156c1f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iconfont icon-close she-close</value>
+      <webElementGuid>88a16896-dcdb-4882-9f9b-d04e2206224a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;sui-popup-parent__hidden&quot;]/div[@class=&quot;c-outermost-ctn j-outermost-ctn&quot;]/div[@class=&quot;j-vue-coupon-package-container c-vue-coupon&quot;]/div[@class=&quot;c-vue-coupon&quot;]/div[@class=&quot;sui-dialog coupon-dialog has-custom-theme&quot;]/div[@class=&quot;sui-dialog__ctn sui-animation__dialog_W480&quot;]/div[@class=&quot;sui-dialog__wrapper sui-dialog__W480&quot;]/div[@class=&quot;sui-dialog__body&quot;]/div[@class=&quot;c-coupon-box&quot;]/i[@class=&quot;iconfont icon-close she-close&quot;]</value>
+      <webElementGuid>b2e5ba34-7247-446d-9ead-9ecffeb634b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div[2]/div[2]/i</value>
+      <webElementGuid>78bc90d2-e267-4d0b-899e-1443e5b9ad00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

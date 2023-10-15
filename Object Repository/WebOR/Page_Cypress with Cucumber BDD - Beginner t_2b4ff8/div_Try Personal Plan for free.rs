@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Try Personal Plan for free</name>
+   <tag></tag>
+   <elementGuidId>36209804-d66b-4d83-a00d-34045c10bee7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='subscriptionTrialOfferButton']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.subscription-cta--text--20Vqr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8cbf60fc-4182-4f79-a9e8-b253653e98c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>subscription-cta--text--20Vqr</value>
+      <webElementGuid>a9aa7303-330e-4716-8a3b-488b431ff7ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Try Personal Plan for free</value>
+      <webElementGuid>c9ef3187-6ccd-4c40-b911-1314e43cbf8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;u14-tabs--62-content-0&quot;)/div[1]/div[1]/div[@class=&quot;cta-container--container--kYwB4 purchase-section-container--subscription-cta--KiqfG&quot;]/a[@id=&quot;subscriptionTrialOfferButton&quot;]/div[@class=&quot;subscription-cta--text--20Vqr&quot;]</value>
+      <webElementGuid>f78e702c-c544-47d2-ab9d-e6d58a3b643d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='subscriptionTrialOfferButton']/div</value>
+      <webElementGuid>cc3c15ce-cccf-4434-9f25-eb90bc74fd1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn more'])[1]/following::div[2]</value>
+      <webElementGuid>cf371a7c-3262-43bf-88cf-19805debdb2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Starting at R183.00 per month after trial'])[1]/preceding::div[1]</value>
+      <webElementGuid>0650f420-de98-4025-b253-c0df0afea5dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel anytime'])[1]/preceding::div[2]</value>
+      <webElementGuid>1c20afb3-862a-4447-a3c3-6d028664940f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Try Personal Plan for free']/parent::*</value>
+      <webElementGuid>a19bfecd-0029-4f31-ac93-44f58d21eb4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>82e3f46e-d2a9-4958-9d3b-fe8d44f078e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Try Personal Plan for free' or . = 'Try Personal Plan for free')]</value>
+      <webElementGuid>05f97a4a-e209-417b-b4c9-fe81ee1ac896</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
