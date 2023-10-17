@@ -17,3 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://gocopious.com/about-us/')
+
+WebUI.scrollToPosition(5, 5)
+
+WebUI.click(findTestObject('Object Repository/WebOR/Page_About Us  Copious/div_Core ValuesThe values we hold that shap_57bbd4'))
+
+WebUI.closeBrowser()
+

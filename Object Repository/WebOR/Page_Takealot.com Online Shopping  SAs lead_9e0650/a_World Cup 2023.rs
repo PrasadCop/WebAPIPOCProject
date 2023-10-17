@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Forgot password</name>
+   <name>a_World Cup 2023</name>
    <tag></tag>
-   <elementGuidId>c26cab35-7bfb-42ee-80b1-e7bd43eb645f</elementGuidId>
+   <elementGuidId>b5936ffe-ec27-48c4-9f59-960266c4c060</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>a.forgot-pass</value>
+         <value>#nav_item_377</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='modal-login']/div/div/div/p/a</value>
+         <value>//div[2]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,118 +22,126 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>71343961-bffc-4093-ba76-5088eb4efc6f</webElementGuid>
+      <webElementGuid>310b2818-8b64-43b1-a976-f5bea84abd3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>id</name>
       <type>Main</type>
-      <value>forgot-pass</value>
-      <webElementGuid>b3e045de-58a6-4290-9212-7c1021b31a29</webElementGuid>
+      <value>nav_item_377</value>
+      <webElementGuid>24777451-dffd-492c-b432-67d3ac329ec4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://academy.katalon.com/wp-login.php?action=lostpassword</value>
-      <webElementGuid>ba146037-9852-4150-9739-dbadc2acf6ef</webElementGuid>
+      <value>https://www.takealot.com/world-cup</value>
+      <webElementGuid>80492bfa-5928-49ba-93e0-9f7eee60f7c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Forgot password? </value>
-      <webElementGuid>5cf49d73-7194-4be1-92a0-217e49e69144</webElementGuid>
+      <value>World Cup 2023</value>
+      <webElementGuid>5f555bbe-c438-420f-9a5d-49e9127c16c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;modal-login&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;skillate-signin-popup-inner modal-content&quot;]/div[@class=&quot;skillate-login-body modal-body&quot;]/p[@class=&quot;new-user-login&quot;]/a[@class=&quot;forgot-pass&quot;]</value>
-      <webElementGuid>f92994eb-472c-47da-981b-14b442cb3ced</webElementGuid>
+      <value>id(&quot;nav_item_377&quot;)</value>
+      <webElementGuid>95be5db6-f4d2-42a9-905d-b7ce30955746</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='nav_item_377']</value>
+      <webElementGuid>b02d074e-fed2-41e0-84cc-7862344cad95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='modal-login']/div/div/div/p/a</value>
-      <webElementGuid>8f634e8f-0e49-4ac3-a70a-e6171aacda20</webElementGuid>
+      <value>//div[@id='shopfront-app']/header/div/div/div[2]/div/div/div/div/div[2]/a</value>
+      <webElementGuid>5daf0919-fcca-462c-9517-b866b4209ae8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Forgot password?')]</value>
-      <webElementGuid>7e5ec983-7e9d-4fc7-bf68-7f7eb560ab70</webElementGuid>
+      <value>//a[contains(text(),'World Cup 2023')]</value>
+      <webElementGuid>836db8c4-a36f-46cd-8e74-6a3f96b5d4de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Certification Program.'])[1]/following::a[1]</value>
-      <webElementGuid>f2415dcb-8bb7-4d18-9e41-cb181a780d61</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alot For Less'])[1]/following::a[1]</value>
+      <webElementGuid>d10ba4c7-e2ba-4811-ada8-5294d12c0893</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up now'])[1]/following::a[2]</value>
-      <webElementGuid>27fd8e83-3cbe-4a23-b454-f3679756039b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toys'])[1]/following::a[3]</value>
+      <webElementGuid>2fb70f44-2a25-4a2c-a6fc-9b1f817f184a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log In'])[1]/preceding::a[1]</value>
-      <webElementGuid>1dba5911-d5e0-4513-906f-811e461a7cfc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New to Takealot'])[1]/preceding::a[1]</value>
+      <webElementGuid>bb7048ac-58e3-45fb-a9e4-81ce4bebf4af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Certification Program.'])[2]/preceding::a[2]</value>
-      <webElementGuid>9e5e14e0-4bd2-4589-9d63-b7b944a852cb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Summer'])[1]/preceding::a[2]</value>
+      <webElementGuid>25fb966a-27bf-4d6c-a9a7-8172dd7b0af3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Forgot password?']/parent::*</value>
-      <webElementGuid>4fc4737b-32bf-4c91-b9c6-6af4a2b4b7f4</webElementGuid>
+      <value>//*/text()[normalize-space(.)='World Cup 2023']/parent::*</value>
+      <webElementGuid>b4b0b271-5b0b-4a7a-82d8-d7283848e286</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'https://academy.katalon.com/wp-login.php?action=lostpassword')]</value>
-      <webElementGuid>52b6dffe-dd6e-4042-9291-34c2ed60b5a6</webElementGuid>
+      <value>//a[contains(@href, 'https://www.takealot.com/world-cup')]</value>
+      <webElementGuid>30d382f4-6e92-4b02-9be7-7675d22db45c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[5]/div/div/div/p/a</value>
-      <webElementGuid>b22984a3-2c3a-483b-ab61-6164941b886a</webElementGuid>
+      <value>//div[2]/a</value>
+      <webElementGuid>8347d205-b4cc-4094-a2da-b56c605add66</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://academy.katalon.com/wp-login.php?action=lostpassword' and (text() = ' Forgot password? ' or . = ' Forgot password? ')]</value>
-      <webElementGuid>86748cc7-9de6-4f98-b8af-3385d8656de1</webElementGuid>
+      <value>//a[@id = 'nav_item_377' and @href = 'https://www.takealot.com/world-cup' and (text() = 'World Cup 2023' or . = 'World Cup 2023')]</value>
+      <webElementGuid>5683ba86-9c75-4761-9f61-dc3ac21576c9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

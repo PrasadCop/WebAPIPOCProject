@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_All courses</name>
+   <tag></tag>
+   <elementGuidId>be6f87e5-a7c8-4bc8-84ad-f654cd972549</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-720']/div/div/div[2]/div/div/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b5d38399-4641-4bf0-a97b-ff0276f050f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>6b5a470b-6831-47a5-a5cf-bff0be5b98f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tab</name>
+      <type>Main</type>
+      <value>all-course</value>
+      <webElementGuid>e68d60ae-9f5a-46a2-b93d-f30094a36b8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All courses</value>
+      <webElementGuid>308ba0a6-5eac-4068-8b97-3eec68572054</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-720&quot;)/div[@class=&quot;most-trending-courses-wrapper&quot;]/div[@class=&quot;wp-block-qubely-row alignfull qubely-section qubely-block-b6ffe3&quot;]/div[@class=&quot;qubely-container&quot;]/div[@class=&quot;qubely-row&quot;]/div[@class=&quot;wp-block-qubely-column qubely-column qubely-column-front qubely-block-c43903&quot;]/div[@class=&quot;qubely-column-inner&quot;]/div[@class=&quot;tab-container&quot;]/div[@class=&quot;ka-tabs&quot;]/div[@class=&quot;tab&quot;]</value>
+      <webElementGuid>ebdf9d0d-fa78-4fe0-ab64-13a118e5dca9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-720']/div/div/div[2]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>68ae7c48-8b77-4d4e-820d-1321b38fc027</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learning paths'])[1]/following::div[1]</value>
+      <webElementGuid>8e80edf5-b906-43fb-b09b-970959db804c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose a course'])[1]/following::div[12]</value>
+      <webElementGuid>b07db678-96a8-4ff1-87ed-ac61c6299463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Latest Katalon Courses'])[1]/preceding::div[2]</value>
+      <webElementGuid>bc9c5bcd-5303-4a0c-9414-38ad8933ce86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='All courses']/parent::*</value>
+      <webElementGuid>39107d9e-abad-491e-95c6-016383977eee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>db622408-6b24-4dc9-b490-4301d6fe9d2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'All courses' or . = 'All courses')]</value>
+      <webElementGuid>59ca2499-785f-4273-a3c5-89702ea061cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

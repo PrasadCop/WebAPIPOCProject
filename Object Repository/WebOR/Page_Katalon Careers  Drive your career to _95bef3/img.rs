@@ -3,15 +3,15 @@
    <description></description>
    <name>img</name>
    <tag></tag>
-   <elementGuidId>26c0a70d-446e-4ec2-a655-59fcec4ca000</elementGuidId>
+   <elementGuidId>8b2c3744-cba2-4936-960a-eb85a4e411f0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>img[alt=&quot;toggle-menu&quot;]</value>
+         <value>div.search_input > div.search_icon > img</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='id-img-header-mobile']/img</value>
+         <value>//div[@id='__next']/main/div[2]/section/div/div/div/div/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,62 +22,54 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>cd25ebb5-98a4-4f60-b283-7d0ca23d8229</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>alt</name>
-      <type>Main</type>
-      <value>toggle-menu</value>
-      <webElementGuid>0bbfef8d-1cb9-4d38-a420-5caa79dac61b</webElementGuid>
+      <webElementGuid>f84e193c-06c7-4a63-8372-d93b8d136945</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>https://d1dykungmee0hk.cloudfront.net/themes/skillate/images/menubutton.svg</value>
-      <webElementGuid>c1c26161-72c6-4dd5-a98f-1b8eadcfc7dd</webElementGuid>
+      <value>https://d1h3p5fzmizjvp.cloudfront.net/careers-website/homepage/search_icon.svg</value>
+      <webElementGuid>a64733f4-7956-478c-bc52-0adc58ce5598</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;id-img-header-mobile&quot;)/img[1]</value>
-      <webElementGuid>7f4cf11d-4a19-4101-9bcb-6dd7cf62d9a7</webElementGuid>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;HomePage_wrapHomePage__zdHwS&quot;]/section[@class=&quot;hero_section&quot;]/div[@class=&quot;left_content&quot;]/div[@class=&quot;searchbar_section&quot;]/div[@class=&quot;search_input&quot;]/div[@class=&quot;search_icon&quot;]/img[1]</value>
+      <webElementGuid>3768ec0a-a14b-4c35-9ecc-e89dc7c0542e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='id-img-header-mobile']/img</value>
-      <webElementGuid>5230ec0a-0da4-4c9b-9610-23ff7d53001c</webElementGuid>
+      <value>//div[@id='__next']/main/div[2]/section/div/div/div/div/img</value>
+      <webElementGuid>dedd8cba-869f-4289-a907-46a8fd2e5e53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:img</name>
       <type>Main</type>
-      <value>//img[@alt='toggle-menu']</value>
-      <webElementGuid>e7fd2f52-4c19-4acf-8c32-01f8fb09c6ff</webElementGuid>
+      <value>(//img[contains(@src,'https://d1h3p5fzmizjvp.cloudfront.net/careers-website/homepage/search_icon.svg')])[3]</value>
+      <webElementGuid>415fd161-acb2-4eb3-b021-8359a26db09e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/img</value>
-      <webElementGuid>ee21685f-cc06-4417-b084-ce0376dfeed1</webElementGuid>
+      <value>//div[2]/section/div/div/div/div/img</value>
+      <webElementGuid>f3317f98-0100-4cdf-a9b7-ae2256b95cfa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//img[@alt = 'toggle-menu' and @src = 'https://d1dykungmee0hk.cloudfront.net/themes/skillate/images/menubutton.svg']</value>
-      <webElementGuid>82870347-2ba2-4227-8da2-5c2987a9020b</webElementGuid>
+      <value>//img[@src = 'https://d1h3p5fzmizjvp.cloudfront.net/careers-website/homepage/search_icon.svg']</value>
+      <webElementGuid>ec2d5bf9-f219-4864-8259-95dd49c34027</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

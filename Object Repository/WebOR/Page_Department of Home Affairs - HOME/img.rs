@@ -3,15 +3,15 @@
    <description></description>
    <name>img</name>
    <tag></tag>
-   <elementGuidId>26c0a70d-446e-4ec2-a655-59fcec4ca000</elementGuidId>
+   <elementGuidId>6895b6aa-60c5-4052-a6b5-db630dc1b30d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>img[alt=&quot;toggle-menu&quot;]</value>
+         <value>img[alt=&quot;Department of Home Affairs&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='id-img-header-mobile']/img</value>
+         <value>//div[@id='top']/div/header/div/a/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,62 +22,62 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>cd25ebb5-98a4-4f60-b283-7d0ca23d8229</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>alt</name>
-      <type>Main</type>
-      <value>toggle-menu</value>
-      <webElementGuid>0bbfef8d-1cb9-4d38-a420-5caa79dac61b</webElementGuid>
+      <webElementGuid>710c2801-e766-488b-9bac-164c3e756c38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>https://d1dykungmee0hk.cloudfront.net/themes/skillate/images/menubutton.svg</value>
-      <webElementGuid>c1c26161-72c6-4dd5-a98f-1b8eadcfc7dd</webElementGuid>
+      <value>http://www.dha.gov.za/images/banners/e-homeaffairs-Banner.jpg</value>
+      <webElementGuid>4a8f79dc-2337-4d04-a7d3-a0ced012dcec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Department of Home Affairs</value>
+      <webElementGuid>5cd5af9b-b436-4b98-80a8-c0aa3d215bd1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;id-img-header-mobile&quot;)/img[1]</value>
-      <webElementGuid>7f4cf11d-4a19-4101-9bcb-6dd7cf62d9a7</webElementGuid>
+      <value>id(&quot;top&quot;)/div[@class=&quot;container&quot;]/header[@class=&quot;header&quot;]/div[@class=&quot;header-inner clearfix&quot;]/a[@class=&quot;brand pull-left&quot;]/img[1]</value>
+      <webElementGuid>0d22ba51-9a32-4bec-84e8-60d46176b8cb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='id-img-header-mobile']/img</value>
-      <webElementGuid>5230ec0a-0da4-4c9b-9610-23ff7d53001c</webElementGuid>
+      <value>//div[@id='top']/div/header/div/a/img</value>
+      <webElementGuid>9a4d779c-8ac1-4462-ade7-78096189fa19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:img</name>
       <type>Main</type>
-      <value>//img[@alt='toggle-menu']</value>
-      <webElementGuid>e7fd2f52-4c19-4acf-8c32-01f8fb09c6ff</webElementGuid>
+      <value>//img[@alt='Department of Home Affairs']</value>
+      <webElementGuid>e5fe8f6d-12c1-4988-bc77-a30b62355dc7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/img</value>
-      <webElementGuid>ee21685f-cc06-4417-b084-ce0376dfeed1</webElementGuid>
+      <value>//img</value>
+      <webElementGuid>084844b0-c752-4779-bb0e-bf1d9ea07da0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//img[@alt = 'toggle-menu' and @src = 'https://d1dykungmee0hk.cloudfront.net/themes/skillate/images/menubutton.svg']</value>
-      <webElementGuid>82870347-2ba2-4227-8da2-5c2987a9020b</webElementGuid>
+      <value>//img[@src = 'http://www.dha.gov.za/images/banners/e-homeaffairs-Banner.jpg' and @alt = 'Department of Home Affairs']</value>
+      <webElementGuid>ffe40b86-677b-4849-9bfb-f2b14c9bedc5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

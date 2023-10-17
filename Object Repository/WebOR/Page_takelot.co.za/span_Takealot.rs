@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Takealot</name>
+   <tag></tag>
+   <elementGuidId>00c11495-f419-4412-8665-f1f7362b583d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#e3 > a.i_.a.si144 > div.i_.div.si33 > span.p_.si34.span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='e3']/a/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e668d284-cb20-40b1-aa67-752d6764ceb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p_ si34 span</value>
+      <webElementGuid>92c469f9-8b9a-4151-9648-7d253c873185</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Takealot</value>
+      <webElementGuid>2005ee64-a9a3-42e8-b3f9-52342416d107</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;e3&quot;)/a[@class=&quot;i_ a si144&quot;]/div[@class=&quot;i_ div si33&quot;]/span[@class=&quot;p_ si34 span&quot;]</value>
+      <webElementGuid>32463329-2578-4b19-9976-ca4e2ba992d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/WebOR/Page_takelot.co.za/iframe_takelot.co.za_namemaster-1,slave-1-1_a3b7a7</value>
+      <webElementGuid>d59b5ddc-0e2b-4c1a-b8d7-5bf14099cd13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='e3']/a/div[2]/span</value>
+      <webElementGuid>bad4adf2-f22e-4515-a802-3040624446d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='South Africa Online Shopping'])[1]/following::span[1]</value>
+      <webElementGuid>4b79553a-283f-4aa6-b032-c1c748fd113f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Related searches'])[1]/following::span[2]</value>
+      <webElementGuid>bb8c753e-34fc-4cea-a01d-8685f6b47133</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kitchen Appliances for Sale'])[1]/preceding::span[1]</value>
+      <webElementGuid>087f310d-b374-43f8-aaa0-de96b5f65cb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Takealot']/parent::*</value>
+      <webElementGuid>dc040434-cc04-47db-bcc0-956f537bbb6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/div[2]/span</value>
+      <webElementGuid>c4b5ce87-7235-49d8-9f8d-5d6c6553d450</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Takealot' or . = 'Takealot')]</value>
+      <webElementGuid>9b85d9b2-3f49-4592-85bd-a8ad20ade9f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

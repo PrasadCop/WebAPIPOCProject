@@ -6,12 +6,12 @@
    <elementGuidId>c805c46c-9c71-4458-8e1f-122efb3c0ecd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//a[contains(text(),'Maven')])[3]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>li.active > a[title=&quot;Maven&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='JavaScript'])[2]/following::a[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
