@@ -6,12 +6,12 @@
    <elementGuidId>cfa0daa9-c1f3-47ac-aec2-8887379b8f6f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Applies to All Products'])[4]/following::button[1]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.sui-button-common.sui-button-common__primary.sui-button-common__H44PX.coupon-btn__item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Check Coupons'])[1]/preceding::button[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

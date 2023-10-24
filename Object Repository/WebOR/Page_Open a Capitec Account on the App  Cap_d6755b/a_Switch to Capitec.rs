@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='localSubNav']/div/div/div/div[2]/div/a[2]</value>
+         <value>//a[contains(text(),'Switch to Capitec')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

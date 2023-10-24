@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cross Cutting Issues</name>
+   <tag></tag>
+   <elementGuidId>bab9ac88-fbdc-4bdb-8034-bb5c778a7b6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1 > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block-pagetitle-2']/div/h1/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c49b31b8-b7d7-4c8e-a67c-8d049c2bc73e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cross Cutting Issues</value>
+      <webElementGuid>e00a04bc-2e4f-44be-9c83-7537a2257fe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block-pagetitle-2&quot;)/div[@class=&quot;basic-title-banner-title-container&quot;]/h1[1]/span[1]</value>
+      <webElementGuid>8c401963-500b-45b9-847c-e6a7b8bc0c66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block-pagetitle-2']/div/h1/span</value>
+      <webElementGuid>9cb023f4-0844-4d76-a75b-b2e846ff258b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cross Cutting Issues'])[1]/following::span[1]</value>
+      <webElementGuid>ed62eb4d-cdee-41ac-8c00-ea3b022b2963</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Work'])[1]/following::span[2]</value>
+      <webElementGuid>d8849849-73a4-4c73-96d4-b719e9626afb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employment &amp; Social Protection'])[1]/preceding::span[1]</value>
+      <webElementGuid>fea822be-d07d-4f40-934e-b4bff68ef010</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Responsibility &amp; Supply Chains'])[1]/preceding::span[1]</value>
+      <webElementGuid>c90519e8-42f1-4577-99d3-740cff7ae9c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/span</value>
+      <webElementGuid>be36214c-47dd-4977-8df8-986c0f10b74c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cross Cutting Issues' or . = 'Cross Cutting Issues')]</value>
+      <webElementGuid>c0347a89-9f47-4e07-ad0b-9de05d5be989</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
