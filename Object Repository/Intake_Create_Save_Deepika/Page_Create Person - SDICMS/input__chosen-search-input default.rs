@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__chosen-search-input default</name>
+   <tag></tag>
+   <elementGuidId>c8d40fd0-5e0b-4bd1-9231-8d4d00d65977</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Select Some Options']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.chosen-search-input.default</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>5c0836fe-9c56-4282-a762-a22eea199da5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chosen-search-input default</value>
+      <webElementGuid>11733515-4bf2-44f0-b468-d58277242c25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>de637966-d64e-4521-88b6-7e3cd337446c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>0ae5efbc-4ac5-4cdc-9dec-09e605989ed1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Select Some Options</value>
+      <webElementGuid>888aedeb-df12-41fe-9ee5-e38698f9a54e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DropdownDisabilityCategory_chosen&quot;)/ul[@class=&quot;chosen-choices&quot;]/li[@class=&quot;search-field&quot;]/input[@class=&quot;chosen-search-input default&quot;]</value>
+      <webElementGuid>a3b9df5b-b8a1-46c1-8c49-65fd9c305578</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Select Some Options']</value>
+      <webElementGuid>70ef7fbf-639a-4ed4-ab30-487208186757</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='DropdownDisabilityCategory_chosen']/ul/li/input</value>
+      <webElementGuid>45a9e2b4-0a28-4f0c-bdb2-b46e979e2941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/input</value>
+      <webElementGuid>d65f5167-f1b9-47f3-9d24-1b8445ae743c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>7c771853-2d3f-4bbd-b4c7-37ff96ebfe33</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

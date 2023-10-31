@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Please select -AetheistAfrican rel_031447</name>
+   <tag></tag>
+   <elementGuidId>1203f56c-f354-4504-a136-5cc18a1941fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#DropdownReligion</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='DropdownReligion']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c212f17b-39bc-4384-8299-656cd725232e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>61fdb02a-f9dc-46a3-927a-3428c3e06b19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3e8ea13a-ca73-4be6-9f72-579591cea3d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-number</name>
+      <type>Main</type>
+      <value>The field Religion_Id must be a number.</value>
+      <webElementGuid>51e23968-265e-492b-913b-e2590c704a14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>DropdownReligion</value>
+      <webElementGuid>9a8bcdc3-1174-434f-b335-38381dbd0eff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Person.Religion_Id</value>
+      <webElementGuid>2d9bf2be-115a-4da3-bf73-8e59d1b268b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Please select -
+Aetheist
+African religion
+Agnostic
+Buddhism
+
+Christian
+Hindu
+Islam
+Jewish
+Postol
+Rastafarian
+Traditional
+</value>
+      <webElementGuid>c5355baf-b950-45ef-a1ba-e9e40939213a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DropdownReligion&quot;)</value>
+      <webElementGuid>eb6c2bef-551d-4879-96b1-739516b47f66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='DropdownReligion']</value>
+      <webElementGuid>c69e6a66-81b1-4251-bd9e-813f0af2e7b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab1']/div/div/div[8]/div[2]/select</value>
+      <webElementGuid>8c602ea1-11f2-48cf-8830-7eb98e3c0da7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Religion'])[1]/following::select[1]</value>
+      <webElementGuid>ead4811a-2bf5-4a25-bc8d-5943c023f230</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sexual Orientation'])[1]/following::select[2]</value>
+      <webElementGuid>e9b03031-032e-45ce-a40f-9b0ffb90874f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Disability'])[1]/preceding::select[1]</value>
+      <webElementGuid>ba2313ea-b0ca-4654-9fbe-29452cace285</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[8]/preceding::select[1]</value>
+      <webElementGuid>0079b9cf-6c83-44b3-8c8d-e1b2330d82c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[2]/select</value>
+      <webElementGuid>facfb780-9a1a-4913-818f-cfa3d09beb9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'DropdownReligion' and @name = 'Person.Religion_Id' and (text() = '- Please select -
+Aetheist
+African religion
+Agnostic
+Buddhism
+
+Christian
+Hindu
+Islam
+Jewish
+Postol
+Rastafarian
+Traditional
+' or . = '- Please select -
+Aetheist
+African religion
+Agnostic
+Buddhism
+
+Christian
+Hindu
+Islam
+Jewish
+Postol
+Rastafarian
+Traditional
+')]</value>
+      <webElementGuid>4809d9aa-6c07-4946-97c8-456f5f1ddfe1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Please select -EmailMobileTelephone</name>
+   <tag></tag>
+   <elementGuidId>cd44d4d9-5c54-4975-9bca-5ecfe224af5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='DropdownModule']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#DropdownModule</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>cd532972-f9d6-4e2b-ac99-73c8c7615f99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>e5959405-4553-4928-b1d7-a1bac7e5e18b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e01c1fce-7867-4e78-9da8-54c67565f5a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-number</name>
+      <type>Main</type>
+      <value>The field Preferred_Contact_Type_Id must be a number.</value>
+      <webElementGuid>15472021-3f0f-496b-97e6-159b6c7b3582</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>DropdownModule</value>
+      <webElementGuid>68d0a139-0ba2-43fb-8032-d93a74bec927</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Person.Preferred_Contact_Type_Id</value>
+      <webElementGuid>5564c83c-24cc-41c7-b472-291e2c50076d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Please select -
+Email
+Mobile
+Telephone
+
+</value>
+      <webElementGuid>745a68ca-8e3c-4bf0-be1e-ab5ad7050a95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DropdownModule&quot;)</value>
+      <webElementGuid>77b9f05e-6bac-4cfb-b313-9b1106a647f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='DropdownModule']</value>
+      <webElementGuid>92ddef9a-1769-4179-bd42-709c500997f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab2']/div[2]/div[4]/select</value>
+      <webElementGuid>38fc6e69-97ae-49d9-b396-4b04ff638bbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preferred Contact Type'])[1]/following::select[1]</value>
+      <webElementGuid>dda0073d-1611-4ba0-b510-77ac5bc20445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address'])[1]/following::select[1]</value>
+      <webElementGuid>b2695a4e-057e-496f-a581-9c40b29fed27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Physical Address'])[1]/preceding::select[1]</value>
+      <webElementGuid>ff01ac99-8bbe-4d28-8769-9004d31f7d8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Postal Address Address'])[1]/preceding::select[1]</value>
+      <webElementGuid>ad34951a-fa39-4ada-8e0f-dd7387a7b8c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div[2]/div[4]/select</value>
+      <webElementGuid>ffd86f1a-3805-42fd-877b-feb3d35dec29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'DropdownModule' and @name = 'Person.Preferred_Contact_Type_Id' and (text() = '- Please select -
+Email
+Mobile
+Telephone
+
+' or . = '- Please select -
+Email
+Mobile
+Telephone
+
+')]</value>
+      <webElementGuid>e414e119-a791-4228-8444-5092a50312e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

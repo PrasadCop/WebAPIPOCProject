@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Intake_Allocations_Supervisor to Case Manager</name>
+   <tag>@Test</tag>
+   <comment></comment>
+   <testCaseGuid>56cdc00c-0c29-4a3e-95ed-438d4716956e</testCaseGuid>
+</TestCaseEntity>

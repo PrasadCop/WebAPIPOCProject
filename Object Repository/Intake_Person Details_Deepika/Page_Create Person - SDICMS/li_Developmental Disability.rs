@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Developmental Disability</name>
+   <tag></tag>
+   <elementGuidId>09ef6150-1724-46da-ae51-ca451c328dc7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.result-selected</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='DropdownDisabilityCategory_chosen']/div/ul/li[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>b6b64d56-ef37-4eda-9136-f8b1d71139c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>result-selected</value>
+      <webElementGuid>71156a30-dad4-4247-930e-c5422f89160f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-option-array-index</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>c12421a2-7a17-4f15-aba0-0f4273512e4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Developmental Disability</value>
+      <webElementGuid>24b04094-f492-4dd3-994f-63a0e5c160f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DropdownDisabilityCategory_chosen&quot;)/div[@class=&quot;chosen-drop&quot;]/ul[@class=&quot;chosen-results&quot;]/li[@class=&quot;result-selected&quot;]</value>
+      <webElementGuid>f1f379c8-2c79-4c1b-a5f7-793de1191b9f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='DropdownDisabilityCategory_chosen']/div/ul/li[4]</value>
+      <webElementGuid>9a054d2a-8c01-4d4a-8d83-cc747b334624</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chronic Illness'])[2]/following::li[1]</value>
+      <webElementGuid>b48bc9a3-f4bf-4bde-a578-b6c8f0fc8155</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blind/Visual Impairment'])[2]/following::li[2]</value>
+      <webElementGuid>26f56695-2d8f-4aaa-858d-fd1f35106724</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hearing Impairment'])[2]/preceding::li[1]</value>
+      <webElementGuid>2f07cf6d-c6e0-4da8-a7ed-1bcae5307998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Intellectual Disability'])[2]/preceding::li[2]</value>
+      <webElementGuid>ffb83c51-98f4-4f8e-babf-b22edcab83bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/ul/li[4]</value>
+      <webElementGuid>ebd17f9e-d624-45db-9978-d2943138ea5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Developmental Disability' or . = 'Developmental Disability')]</value>
+      <webElementGuid>17f49bc2-f96f-4185-8e58-58d48eba3766</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

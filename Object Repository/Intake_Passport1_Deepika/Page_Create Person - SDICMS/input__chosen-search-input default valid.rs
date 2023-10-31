@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__chosen-search-input default valid</name>
+   <tag></tag>
+   <elementGuidId>eb68f925-6dad-40bb-9366-a2bcbba3d4ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.chosen-search-input.default.valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value='Select Some Options'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3c2aa0b6-4ef5-45a7-8196-492550894c15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chosen-search-input default valid</value>
+      <webElementGuid>d8c3e641-afe8-46d1-b86e-d2b2d3524e3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>4b3ba049-591e-4b86-be2a-22cf2937dd6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>d2af804c-fa11-43e0-9c8a-5e74ef236580</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Select Some Options</value>
+      <webElementGuid>a28f4ebb-b7c2-457f-b775-935bfcaf809c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>c9d186e7-e290-4700-a57e-e0ef6132e739</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DropdownDisabilityTypes_chosen&quot;)/ul[@class=&quot;chosen-choices&quot;]/li[@class=&quot;search-field&quot;]/input[@class=&quot;chosen-search-input default valid&quot;]</value>
+      <webElementGuid>de60c8f1-093f-4ec2-96f1-c9f89f4dee8e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value='Select Some Options'])[2]</value>
+      <webElementGuid>6c7eee7b-760f-444e-8e13-d9280c58ad0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='DropdownDisabilityTypes_chosen']/ul/li/input</value>
+      <webElementGuid>2675e761-b36a-49fc-8dff-aa905d867af9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div[4]/div/ul/li/input</value>
+      <webElementGuid>1b7ddcb7-d02a-46fb-a97c-14b3ccc68ced</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>de85c1da-ca8d-4543-a397-89f2035e0081</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

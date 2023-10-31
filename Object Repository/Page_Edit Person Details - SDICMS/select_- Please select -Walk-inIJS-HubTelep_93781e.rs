@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Please select -Walk-inIJS-HubTelep_93781e</name>
+   <tag></tag>
+   <elementGuidId>7010ee64-a968-4e75-b2d7-317ed3e561d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='DropdownModule']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#DropdownModule</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f1cdf126-54d8-4f62-8f54-7151cfb0e560</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>b2d3d3a7-4160-40f1-9994-b9a6a37ef066</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>25207d03-f94a-4699-9d82-20e99318b860</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-number</name>
+      <type>Main</type>
+      <value>The field Reception_Visit_Type_Id must be a number.</value>
+      <webElementGuid>1553e437-d6c4-46e2-9e01-7fbc4f092778</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>DropdownModule</value>
+      <webElementGuid>7ba81ddc-afa3-44e5-b2be-c1670d6c1e94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ReceptionRegister.Reception_Visit_Type_Id</value>
+      <webElementGuid>7c06135f-1da8-4a5b-8cab-77e3e961df3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Please select -
+Walk-in
+IJS-Hub
+Telephonic
+Email
+Fax
+Online
+</value>
+      <webElementGuid>9b5cf6f1-5915-42f5-ac71-820b84899bc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;personDetails&quot;)/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 form-group&quot;]/select[@id=&quot;DropdownModule&quot;]</value>
+      <webElementGuid>95fc5848-4778-4e06-99b6-1a5e4102f38f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='DropdownModule']</value>
+      <webElementGuid>d58b53b5-7bb1-451b-a18d-b9d5cc3ca8f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='personDetails']/div[2]/div/div[4]/select</value>
+      <webElementGuid>419cac49-9302-42d3-b0ef-92bf17f7fbd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::select[1]</value>
+      <webElementGuid>05ded8e4-4822-44db-92eb-d167f2f9b461</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Type'])[1]/following::select[1]</value>
+      <webElementGuid>a67f4aca-046d-41c8-8239-6c1649fa14b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visit Date'])[1]/preceding::select[1]</value>
+      <webElementGuid>9e96125f-ce4a-4d57-85a4-b73467104644</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::select[1]</value>
+      <webElementGuid>fdb3892c-b2ae-4336-ae28-9acfac681960</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>cec0c703-7a1b-4fe0-93a6-4b651aef632f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'DropdownModule' and @name = 'ReceptionRegister.Reception_Visit_Type_Id' and (text() = '- Please select -
+Walk-in
+IJS-Hub
+Telephonic
+Email
+Fax
+Online
+' or . = '- Please select -
+Walk-in
+IJS-Hub
+Telephonic
+Email
+Fax
+Online
+')]</value>
+      <webElementGuid>ac98530c-4e12-4065-b474-ffdbce2a0536</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

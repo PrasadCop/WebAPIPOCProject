@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_BlindVisual Impairment</name>
+   <tag></tag>
+   <elementGuidId>51f7f9f7-c0f4-4de5-8bd0-2cb1b4735ba2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='DropdownDisabilityCategory_chosen']/div/ul/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.result-selected</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>25a42fed-2cd0-4ee5-93d9-30fb4c354c89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>result-selected</value>
+      <webElementGuid>f10aef04-8793-4a54-9e84-0b0f7e2cbe6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-option-array-index</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>71745227-2964-49af-8f91-18fd3f5a38ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Blind/Visual Impairment</value>
+      <webElementGuid>519cc2d5-19dc-460d-a684-74cae4648991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DropdownDisabilityCategory_chosen&quot;)/div[@class=&quot;chosen-drop&quot;]/ul[@class=&quot;chosen-results&quot;]/li[@class=&quot;result-selected&quot;]</value>
+      <webElementGuid>fc37e212-942d-4380-8b6c-6b61d091524c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='DropdownDisabilityCategory_chosen']/div/ul/li[2]</value>
+      <webElementGuid>81c4b0f9-e9b9-41b6-8ce4-fab4059191ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- Please select -'])[12]/following::li[1]</value>
+      <webElementGuid>0e4f4b21-45cc-42ef-9f0d-4a1df7a5faf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blind/Visual Impairment'])[2]/following::li[3]</value>
+      <webElementGuid>c744971a-5d52-4726-b3e1-ee3533ae527d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chronic Illness'])[2]/preceding::li[1]</value>
+      <webElementGuid>e91cdd6f-6f6e-4f2e-98d5-722e35308931</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Developmental Disability'])[2]/preceding::li[2]</value>
+      <webElementGuid>08f4a2ae-826b-4e07-8f99-cfab1b73750e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/ul/li[2]</value>
+      <webElementGuid>ef3a2f04-311d-401a-8b8e-c7600eb9d954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Blind/Visual Impairment' or . = 'Blind/Visual Impairment')]</value>
+      <webElementGuid>a46391f9-7404-4652-a598-f137b79b5d85</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

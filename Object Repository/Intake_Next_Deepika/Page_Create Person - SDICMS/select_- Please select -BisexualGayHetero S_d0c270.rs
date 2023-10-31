@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Please select -BisexualGayHetero S_d0c270</name>
+   <tag></tag>
+   <elementGuidId>38b5c6a8-0e00-4348-aacd-6d9bd5651038</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#DropdownSexualOrientation</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='DropdownSexualOrientation']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>6962c5a0-2d6a-4951-9168-46a64afe9903</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>7d00a62d-7075-49f0-8ae7-56989f7e7d5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>44c04f57-c085-4d39-b52b-1442bc97fdea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-number</name>
+      <type>Main</type>
+      <value>The field Sexual_Orientation_Id must be a number.</value>
+      <webElementGuid>bfa611ca-fa10-402d-bc03-4003b752f4c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>DropdownSexualOrientation</value>
+      <webElementGuid>4d00f3fc-4121-405f-9ea7-9412ff3d69a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Person.Sexual_Orientation_Id</value>
+      <webElementGuid>64b4c1c2-5824-45dd-a586-f0fd853db886</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Please select -
+Bisexual
+Gay
+Hetero Sexual
+Intersex
+LBGTIQA+
+Lesbian
+Queer
+Transgender
+</value>
+      <webElementGuid>435e9e2f-321b-405f-961e-aa358c34af07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DropdownSexualOrientation&quot;)</value>
+      <webElementGuid>4671acbb-def1-4672-b0c4-088804668e45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='DropdownSexualOrientation']</value>
+      <webElementGuid>8ed71bb6-1d6d-404e-9f37-e33c8eb2189c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab1']/div/div/div/div[7]/div[4]/select</value>
+      <webElementGuid>2bbf914d-a5ab-4ddc-a159-3427c44c705d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sexual Orientation'])[1]/following::select[1]</value>
+      <webElementGuid>df0c04e7-3e59-448b-ac09-e184913722ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Language Type'])[1]/following::select[2]</value>
+      <webElementGuid>ea371663-74ab-4a4c-841b-01eb9d1fb9ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Population Group'])[1]/preceding::select[1]</value>
+      <webElementGuid>298e8278-cf52-4b22-abe6-0a672d11b6d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marital Status'])[1]/preceding::select[2]</value>
+      <webElementGuid>32a3ccec-a43a-4257-be3d-007fc6f77eba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[4]/select</value>
+      <webElementGuid>0b240aae-752c-4b71-92d1-a9b4f659379b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'DropdownSexualOrientation' and @name = 'Person.Sexual_Orientation_Id' and (text() = '- Please select -
+Bisexual
+Gay
+Hetero Sexual
+Intersex
+LBGTIQA+
+Lesbian
+Queer
+Transgender
+' or . = '- Please select -
+Bisexual
+Gay
+Hetero Sexual
+Intersex
+LBGTIQA+
+Lesbian
+Queer
+Transgender
+')]</value>
+      <webElementGuid>8369b292-0aa9-4b84-9c1e-8c0252d769c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

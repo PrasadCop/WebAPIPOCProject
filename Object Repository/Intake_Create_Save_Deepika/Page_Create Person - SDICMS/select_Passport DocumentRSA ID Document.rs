@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Passport DocumentRSA ID Document</name>
+   <tag></tag>
+   <elementGuidId>1cef6cbb-44f2-4b8d-be90-d2cc4efbc200</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='DropdownIdentificationType']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#DropdownIdentificationType</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>74be4134-1944-4b88-8a4f-213d13bf8096</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>f7059d5a-da39-44b8-8469-ffea89747396</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c89fed03-a288-44b4-85e8-7195d17d723b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-number</name>
+      <type>Main</type>
+      <value>The field Identification_Type_Id must be a number.</value>
+      <webElementGuid>3af37e49-ac0f-4295-a65d-b0541a340dd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>DropdownIdentificationType</value>
+      <webElementGuid>f22abdba-d5d0-4ec1-b4ff-c17c81fbe36a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Person.Identification_Type_Id</value>
+      <webElementGuid>0eda25e1-61b4-46b2-b24a-719c208c838a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Passport Document
+RSA ID Document
+</value>
+      <webElementGuid>12ca6861-2968-471b-9830-f2bbf73fe841</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DropdownIdentificationType&quot;)</value>
+      <webElementGuid>98534b12-3fd0-496b-8107-061d139ff009</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='DropdownIdentificationType']</value>
+      <webElementGuid>02becd05-7953-4451-a84a-499b7fb333dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab1']/div/div/div/div[4]/div[2]/select</value>
+      <webElementGuid>c77e193a-2e26-4e41-8992-f9cfaf27b955</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identification Type'])[1]/following::select[1]</value>
+      <webElementGuid>0e911a36-357f-4a55-b3b7-7a1d03a537a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Citizenship'])[1]/following::select[2]</value>
+      <webElementGuid>ae234699-ecc5-4a26-ad63-370e74387399</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID Number'])[1]/preceding::select[1]</value>
+      <webElementGuid>04b46b05-0f3d-48f4-8ce8-45fe09aab4c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date of Birth'])[1]/preceding::select[1]</value>
+      <webElementGuid>872114d5-9aed-4ac9-9cd7-ea224499eb28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/select</value>
+      <webElementGuid>a999114d-667b-44e0-8d2e-03b7d963e6df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'DropdownIdentificationType' and @name = 'Person.Identification_Type_Id' and (text() = 'Passport Document
+RSA ID Document
+' or . = 'Passport Document
+RSA ID Document
+')]</value>
+      <webElementGuid>2f39b225-5020-4e21-817f-5a449334e31a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

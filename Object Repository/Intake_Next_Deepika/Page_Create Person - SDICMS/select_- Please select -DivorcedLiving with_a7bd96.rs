@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Please select -DivorcedLiving with_a7bd96</name>
+   <tag></tag>
+   <elementGuidId>42fd5f1b-6f36-4c6a-97fa-4c1dcac85341</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#DropdownMaritalStatus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='DropdownMaritalStatus']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>7c48403f-9496-4172-85d8-a9a3421025a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>8a22ca41-496e-41fc-961b-95269817593a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d1a15a5e-98c7-4d1b-8eca-a04958766103</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-number</name>
+      <type>Main</type>
+      <value>The field Marital_Status_Id must be a number.</value>
+      <webElementGuid>19a1f336-93c9-4f98-bc32-122c37cdf2e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>DropdownMaritalStatus</value>
+      <webElementGuid>c09dc1de-ce1f-4333-ad33-31a7429f9f1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Person.Marital_Status_Id</value>
+      <webElementGuid>da7919b9-5eec-4744-a0d2-c4fc7f48a9e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Please select -
+Divorced
+Living with Partner(Cohabitation)
+Married
+Not Applicable
+Separated
+Single
+Traditional
+Widowed
+</value>
+      <webElementGuid>5c05e100-9f15-41bf-b9f9-9d131426a3f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DropdownMaritalStatus&quot;)</value>
+      <webElementGuid>9904e40a-f6e5-4237-8ce9-dfd07c6149d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='DropdownMaritalStatus']</value>
+      <webElementGuid>79a8f5c2-5e36-41d5-ac11-fd1d1291e28a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ResultOfChoice']/select</value>
+      <webElementGuid>92a0b0ed-3328-4866-80a8-e91b504acf09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marital Status'])[1]/following::select[1]</value>
+      <webElementGuid>332ffb3b-952f-4984-9337-b2b41dcc7fde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Population Group'])[1]/following::select[2]</value>
+      <webElementGuid>f045dc08-906a-4079-8978-36b2fe2d29be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Religion'])[1]/preceding::select[1]</value>
+      <webElementGuid>727ae7a8-3132-4039-ad2b-0d44545bb6ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[4]/select</value>
+      <webElementGuid>486b4f44-74ff-4a92-9edb-c23ae3600d1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'DropdownMaritalStatus' and @name = 'Person.Marital_Status_Id' and (text() = '- Please select -
+Divorced
+Living with Partner(Cohabitation)
+Married
+Not Applicable
+Separated
+Single
+Traditional
+Widowed
+' or . = '- Please select -
+Divorced
+Living with Partner(Cohabitation)
+Married
+Not Applicable
+Separated
+Single
+Traditional
+Widowed
+')]</value>
+      <webElementGuid>5df1de08-7428-437b-9b8d-d46ea8395cca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Country</name>
+   <tag></tag>
+   <elementGuidId>434cddbb-4245-4572-b3e5-4b6be8a9ddc2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#EnquiredCounty</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='EnquiredCounty']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d3bba0e0-2156-4219-b59c-2922b2f741db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>6c9a7717-d16a-4b02-87c4-748f4c4f503a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>837f4ce3-1c89-4978-8578-d557f05eb252</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-number</name>
+      <type>Main</type>
+      <value>The field Selected_Country_Id must be a number.</value>
+      <webElementGuid>6107319a-4113-4725-9c38-dc7e6f9a69f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>EnquiredCounty</value>
+      <webElementGuid>2d56127f-262c-4528-9ef1-77487b8a121d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>PhysicalAddress.Selected_Country_Id</value>
+      <webElementGuid>859cf380-38bc-4777-9e12-439ffa2b7c90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Please select -
+China
+South Africa
+Turkey
+United States of America
+Zimbabwe
+</value>
+      <webElementGuid>43e52c41-ac6e-48d9-add8-a1bbe84188e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;EnquiredCounty&quot;)</value>
+      <webElementGuid>147f50d3-b026-4848-93e2-38da359f5ec4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='EnquiredCounty']</value>
+      <webElementGuid>81c1f143-d266-4fc0-9c7c-ddba7063422a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab2']/div[4]/div[3]/div[2]/select</value>
+      <webElementGuid>181f1d03-a1d6-4de0-a5d7-f1dd1582b112</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country'])[1]/following::select[1]</value>
+      <webElementGuid>0e59ee94-81f1-4be4-92a0-e7c4d090b9c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address Line 2'])[1]/following::select[1]</value>
+      <webElementGuid>830049d8-505d-4cba-8566-78d81d84fe92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Province'])[1]/preceding::select[1]</value>
+      <webElementGuid>b2f27010-dc66-4c62-b5d3-3ee81728eb76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='District Municipality'])[1]/preceding::select[2]</value>
+      <webElementGuid>1bd64676-9eff-4b41-9812-84df0f6605f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/select</value>
+      <webElementGuid>0829b64d-124c-4578-81a9-15be4295af6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'EnquiredCounty' and @name = 'PhysicalAddress.Selected_Country_Id' and (text() = '- Please select -
+China
+South Africa
+Turkey
+United States of America
+Zimbabwe
+' or . = '- Please select -
+China
+South Africa
+Turkey
+United States of America
+Zimbabwe
+')]</value>
+      <webElementGuid>72a4368d-6663-418b-a162-3e6f413af422</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

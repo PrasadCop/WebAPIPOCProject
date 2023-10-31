@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Please select -AfarAfrikaansAkanAm_65536a</name>
+   <tag></tag>
+   <elementGuidId>59b4884f-9c24-4464-bd00-e65cf923b3de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='DropdownLanguage']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#DropdownLanguage</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2f07017b-48fb-41df-a6bf-cf626e57cb83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>df5d2f6c-a12a-436a-bc53-4b4b3866160a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4d0efe20-36b1-40a5-b1b5-9edc5b5d55ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-number</name>
+      <type>Main</type>
+      <value>The field Language_Id must be a number.</value>
+      <webElementGuid>e5c631ea-7f3e-4232-ba42-cf74e16b4502</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>DropdownLanguage</value>
+      <webElementGuid>7a93c651-eb9b-418c-bf8c-e7753bf079c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Person.Language_Id</value>
+      <webElementGuid>d7b67fed-c425-41ca-bb74-8c6a20d7ca58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Please select -
+Afar
+Afrikaans
+Akan
+Amharic
+Arabic
+Berber
+Bhojpuri
+Cape Verdean Creole
+Chewa
+Comorian
+Dangme
+English
+Fon
+French
+Fulani
+Ga
+German
+Gikuyu
+Hausa
+Hindi
+Igbo
+Italian
+Khoekhoe
+Kimbundu
+Kinyarwanda
+Kirundi
+Kituba
+Kongo
+Lingala
+Luganda
+Luo
+Malagasy
+Mauritian Creole
+Mossi
+Nambya
+Ndau
+Ndebele
+Niger-Congo
+Noon
+Northern Ndebele
+Northern Sotho
+Norwegian
+Oromo
+Portuguese
+Sena
+Seychellois Creole
+Shona
+Somali
+Southern Ndebele
+Southern Sotho
+Spanish
+Swahili
+Swazi
+Tamil
+Tigrinya
+Tonga
+Tshiluba
+Tshivenda
+Tsoa
+Tsonga
+Tswana
+Twi
+Umbundu
+Venda
+Wolof
+Xhosa
+Yoruba
+Zulu
+</value>
+      <webElementGuid>f610ee61-d177-440d-b195-4ac7dbd81285</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DropdownLanguage&quot;)</value>
+      <webElementGuid>9d7e5505-9cc0-448c-95b9-bb9943d7741c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='DropdownLanguage']</value>
+      <webElementGuid>60fce7e2-515e-4b6e-8b00-9b9501105334</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab1']/div/div/div/div[7]/div[2]/select</value>
+      <webElementGuid>345c076b-71e4-4489-9197-8ac51e122640</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Language Type'])[1]/following::select[1]</value>
+      <webElementGuid>041be773-87be-4be0-a6bc-9a427564a95b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nationality'])[1]/following::select[2]</value>
+      <webElementGuid>7375dc70-c028-402e-ba2f-7f3d3f3f1b99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sexual Orientation'])[1]/preceding::select[1]</value>
+      <webElementGuid>627f0681-7c4e-4dc8-be75-ab880d56047b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Population Group'])[1]/preceding::select[2]</value>
+      <webElementGuid>9362a8e6-7bb6-46cd-88b3-074fba02f3b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/select</value>
+      <webElementGuid>1956cd18-3422-4e21-8b7a-72b150ce00fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'DropdownLanguage' and @name = 'Person.Language_Id' and (text() = '- Please select -
+Afar
+Afrikaans
+Akan
+Amharic
+Arabic
+Berber
+Bhojpuri
+Cape Verdean Creole
+Chewa
+Comorian
+Dangme
+English
+Fon
+French
+Fulani
+Ga
+German
+Gikuyu
+Hausa
+Hindi
+Igbo
+Italian
+Khoekhoe
+Kimbundu
+Kinyarwanda
+Kirundi
+Kituba
+Kongo
+Lingala
+Luganda
+Luo
+Malagasy
+Mauritian Creole
+Mossi
+Nambya
+Ndau
+Ndebele
+Niger-Congo
+Noon
+Northern Ndebele
+Northern Sotho
+Norwegian
+Oromo
+Portuguese
+Sena
+Seychellois Creole
+Shona
+Somali
+Southern Ndebele
+Southern Sotho
+Spanish
+Swahili
+Swazi
+Tamil
+Tigrinya
+Tonga
+Tshiluba
+Tshivenda
+Tsoa
+Tsonga
+Tswana
+Twi
+Umbundu
+Venda
+Wolof
+Xhosa
+Yoruba
+Zulu
+' or . = '- Please select -
+Afar
+Afrikaans
+Akan
+Amharic
+Arabic
+Berber
+Bhojpuri
+Cape Verdean Creole
+Chewa
+Comorian
+Dangme
+English
+Fon
+French
+Fulani
+Ga
+German
+Gikuyu
+Hausa
+Hindi
+Igbo
+Italian
+Khoekhoe
+Kimbundu
+Kinyarwanda
+Kirundi
+Kituba
+Kongo
+Lingala
+Luganda
+Luo
+Malagasy
+Mauritian Creole
+Mossi
+Nambya
+Ndau
+Ndebele
+Niger-Congo
+Noon
+Northern Ndebele
+Northern Sotho
+Norwegian
+Oromo
+Portuguese
+Sena
+Seychellois Creole
+Shona
+Somali
+Southern Ndebele
+Southern Sotho
+Spanish
+Swahili
+Swazi
+Tamil
+Tigrinya
+Tonga
+Tshiluba
+Tshivenda
+Tsoa
+Tsonga
+Tswana
+Twi
+Umbundu
+Venda
+Wolof
+Xhosa
+Yoruba
+Zulu
+')]</value>
+      <webElementGuid>51e266a8-dd6d-4738-b11e-3a6af2f9a375</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Allocation of a case to Superviso</description>
+   <name>Intake_Allocations_Case manager to Superviso</name>
+   <tag>@Test</tag>
+   <comment></comment>
+   <testCaseGuid>a1cc9c97-c3ef-4439-a733-462658877f7a</testCaseGuid>
+</TestCaseEntity>

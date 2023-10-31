@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Chronic Illness</name>
+   <tag></tag>
+   <elementGuidId>365a480c-429e-478e-922d-ee0b413df758</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='DropdownDisabilityCategory_chosen']/div/ul/li[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.result-selected</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>91d5fdad-1e2a-4b80-9d7b-05bdc522cd2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>result-selected</value>
+      <webElementGuid>d0039d97-ae66-4bff-a817-7fbba9cd5d7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-option-array-index</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>fb7e2a50-f77d-4d8b-92cf-a8bc02502311</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chronic Illness</value>
+      <webElementGuid>078e0ffc-708c-4d80-9ab6-e98e51f09015</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DropdownDisabilityCategory_chosen&quot;)/div[@class=&quot;chosen-drop&quot;]/ul[@class=&quot;chosen-results&quot;]/li[@class=&quot;result-selected&quot;]</value>
+      <webElementGuid>6c6ff523-41e0-4ce8-a0f3-a1d721c305dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='DropdownDisabilityCategory_chosen']/div/ul/li[3]</value>
+      <webElementGuid>3c4bd09e-64f8-402d-9ae1-e36df1a4f090</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blind/Visual Impairment'])[2]/following::li[1]</value>
+      <webElementGuid>7e13b25a-409d-450f-b1b7-0e5f4145d16a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- Please select -'])[12]/following::li[2]</value>
+      <webElementGuid>cc7d9ba3-edd7-4426-ba1d-c93718aeb6d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Developmental Disability'])[2]/preceding::li[1]</value>
+      <webElementGuid>5ccd727e-4061-406d-a982-c57b0b9d60ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hearing Impairment'])[2]/preceding::li[2]</value>
+      <webElementGuid>5038441f-5e10-4854-b891-c9d4ab6f1912</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/ul/li[3]</value>
+      <webElementGuid>25609ca4-1db0-4dca-8090-bdc056e0f772</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Chronic Illness' or . = 'Chronic Illness')]</value>
+      <webElementGuid>d7a30254-50a8-4b2b-b961-2b7eb61d4a4d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

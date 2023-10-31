@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label__input-group-addon btn</name>
+   <tag></tag>
+   <elementGuidId>849319b4-71c3-4ef5-9d13-8d23e1d0b68b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.input-group-addon.btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='personDetails']/div[2]/div[2]/div[2]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>d98df910-c853-42ba-8d4b-f9aa4950d156</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>Visit_Date</value>
+      <webElementGuid>1d3a42fb-0f21-4d20-94d3-81a03ab58164</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-group-addon btn</value>
+      <webElementGuid>aa0dfa8a-3b6d-446c-8ae7-317bb5aed3b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;personDetails&quot;)/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 form-group&quot;]/div[@class=&quot;input-group&quot;]/label[@class=&quot;input-group-addon btn&quot;]</value>
+      <webElementGuid>0db8271f-0c67-4968-b38b-884137164e4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='personDetails']/div[2]/div[2]/div[2]/div/label</value>
+      <webElementGuid>28e0a7de-2c92-4e21-b1e6-5d5fb1949ea4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::label[1]</value>
+      <webElementGuid>c8929459-19a9-4236-9807-3f4956551a14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visit Date'])[1]/following::label[1]</value>
+      <webElementGuid>2564fac7-2651-45c5-9eee-8ab9681d7467</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action Taken'])[1]/preceding::label[1]</value>
+      <webElementGuid>97ed673f-f632-4c43-bd7c-ed2433a87027</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Person Details'])[1]/preceding::label[2]</value>
+      <webElementGuid>d3e87954-f9b2-4b35-ab0f-cc30425cc25b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/label</value>
+      <webElementGuid>236bf8c8-eaaa-4ae2-959d-0d7fe0efd7b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

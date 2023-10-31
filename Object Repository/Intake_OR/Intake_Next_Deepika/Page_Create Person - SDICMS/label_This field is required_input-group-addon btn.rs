@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_This field is required_input-group-addon btn</name>
+   <tag></tag>
+   <elementGuidId>6bce9d48-1f7f-4aa0-9eb2-6091e5512f0c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab1']/div/div/div/div[5]/div[2]/div/label[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.LeftSide > div.row > div.col-md-3.form-group > div.input-group > label.input-group-addon.btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>6b5457f4-0479-4057-9ac2-9167fcb02a47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>Date_of_Birth</value>
+      <webElementGuid>ea50cd8e-d73d-48ba-8cd2-e4e8bcb643b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-group-addon btn</value>
+      <webElementGuid>7f74abb6-bd70-46f9-950d-92ff0985f790</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab1&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;column_1&quot;]/div[@class=&quot;LeftSide&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 form-group&quot;]/div[@class=&quot;input-group&quot;]/label[@class=&quot;input-group-addon btn&quot;]</value>
+      <webElementGuid>5cbc7ed3-9374-4f53-b048-fc9176bf944c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab1']/div/div/div/div[5]/div[2]/div/label[2]</value>
+      <webElementGuid>4006cfc2-8220-4e0f-a84d-22c77ee17a98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This field is required.'])[1]/following::label[1]</value>
+      <webElementGuid>b7967832-2bf7-43b4-a0ef-21534b678170</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::label[2]</value>
+      <webElementGuid>44ad4e1e-958b-453a-b264-14c5b20ce8b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Age'])[1]/preceding::label[1]</value>
+      <webElementGuid>1965dffe-5343-4716-a475-989921017c9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/preceding::label[2]</value>
+      <webElementGuid>f4fa85be-e4ae-454a-98f0-b41d95cea321</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[2]</value>
+      <webElementGuid>283e9b24-fa61-489c-99b3-0d60806e464e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

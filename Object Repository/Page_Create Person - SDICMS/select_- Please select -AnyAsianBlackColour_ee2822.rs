@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Please select -AnyAsianBlackColour_ee2822</name>
+   <tag></tag>
+   <elementGuidId>6247285a-ea0d-417b-9c8a-1177b73818c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#DropdownPopulationGroup</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='DropdownPopulationGroup']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2d4b0f4d-468d-4bec-8fe2-cdfae3fb0890</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>bfaa8225-7829-4112-a4c6-5777a8a71aff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>afb48433-357c-42c5-8960-52a7a4bbb2d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-number</name>
+      <type>Main</type>
+      <value>The field Population_Group_Id must be a number.</value>
+      <webElementGuid>c38b76c7-a4e3-4b32-915a-0bbd0b7cb281</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>DropdownPopulationGroup</value>
+      <webElementGuid>4485c50f-2802-4af3-82cc-454b10ee7280</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Person.Population_Group_Id</value>
+      <webElementGuid>780e214c-c23a-4cba-9ea2-e38839aa41db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Please select -
+Any
+Asian
+Black
+Coloured
+Did not ask
+Indian
+Refused to answer
+Unknown
+White
+</value>
+      <webElementGuid>73b8a235-3d5b-4478-9389-5a8d556375cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DropdownPopulationGroup&quot;)</value>
+      <webElementGuid>0551e0d5-1458-4292-aa6c-a85b186dca41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='DropdownPopulationGroup']</value>
+      <webElementGuid>0b3181ce-ba84-4275-8a9f-ff8b246d11b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab1']/div/div/div/div[8]/div[2]/select</value>
+      <webElementGuid>647bb43d-0663-46bc-98e3-4a5471a03428</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Population Group'])[1]/following::select[1]</value>
+      <webElementGuid>3fb0c70a-61dc-4ff0-8541-d4a1507e8868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sexual Orientation'])[1]/following::select[2]</value>
+      <webElementGuid>f14cade2-2ad3-4772-9999-1846fdf819fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marital Status'])[1]/preceding::select[1]</value>
+      <webElementGuid>2f94566e-62a2-4232-b47a-682fb2658249</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Religion'])[1]/preceding::select[2]</value>
+      <webElementGuid>ada87570-e937-46be-b6ef-47ad7a279555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[2]/select</value>
+      <webElementGuid>411f20e1-2264-481b-affa-ba849238e57d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'DropdownPopulationGroup' and @name = 'Person.Population_Group_Id' and (text() = '- Please select -
+Any
+Asian
+Black
+Coloured
+Did not ask
+Indian
+Refused to answer
+Unknown
+White
+' or . = '- Please select -
+Any
+Asian
+Black
+Coloured
+Did not ask
+Indian
+Refused to answer
+Unknown
+White
+')]</value>
+      <webElementGuid>3bde7ee8-d340-4da1-908f-b75577f7c02e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

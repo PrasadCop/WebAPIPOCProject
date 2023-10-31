@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Please select -Walk-inIJS-HubTelep_93781e</name>
+   <tag></tag>
+   <elementGuidId>f17eee64-a477-4be7-ac87-79d32bac6dba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Reception_Visit_Type_Id</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='Reception_Visit_Type_Id']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>24ea9756-13f9-47e2-84f0-01e57df5c714</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>426efe97-bf40-4583-9020-e43821f60bf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>87aeb404-d560-4ae8-9485-644761f9629c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-number</name>
+      <type>Main</type>
+      <value>The field Reception_Visit_Type_Id must be a number.</value>
+      <webElementGuid>59c64c13-9bd2-43d9-8d34-fda6b4053be9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Reception_Visit_Type_Id</value>
+      <webElementGuid>6da43cc7-8f73-4bd0-91e7-67211f2e077c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ReceptionRegister.Reception_Visit_Type_Id</value>
+      <webElementGuid>42e55ca8-4cba-4f2b-9136-93f19b9838d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>required</name>
+      <type>Main</type>
+      <value>required</value>
+      <webElementGuid>c676b706-d929-47b0-b090-56f9c3ec838e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-required</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f346e899-c55e-4f7b-9101-90bea6306d0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Please select -
+Walk-in
+IJS-Hub
+Telephonic
+Email
+Fax
+Online
+</value>
+      <webElementGuid>c64699d5-3636-48c1-b24b-46b39b61f384</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Reception_Visit_Type_Id&quot;)</value>
+      <webElementGuid>1c944941-02c1-400f-91e1-1b3329a0b968</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='Reception_Visit_Type_Id']</value>
+      <webElementGuid>a4539084-ba00-401f-8f65-f4cde13218ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='personDetails']/div[2]/div/div[4]/select</value>
+      <webElementGuid>5482854b-b306-4dc4-b7ce-71751e7a7bcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::select[1]</value>
+      <webElementGuid>1de37440-d82a-405b-b14e-84a1335bb8ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Type'])[1]/following::select[1]</value>
+      <webElementGuid>d49aabc1-ccbf-4a8f-83e8-70daa5d50c56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visit Date'])[1]/preceding::select[1]</value>
+      <webElementGuid>7456a6da-cdcf-4113-a06e-17e9d8063617</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::select[1]</value>
+      <webElementGuid>3fb0bee6-7f6f-4e78-b8b5-002a65e628f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>f15eff40-1e99-4410-b141-31dad327eace</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'Reception_Visit_Type_Id' and @name = 'ReceptionRegister.Reception_Visit_Type_Id' and (text() = '- Please select -
+Walk-in
+IJS-Hub
+Telephonic
+Email
+Fax
+Online
+' or . = '- Please select -
+Walk-in
+IJS-Hub
+Telephonic
+Email
+Fax
+Online
+')]</value>
+      <webElementGuid>9f91db22-d989-45ca-8aa1-d5b361c247c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
