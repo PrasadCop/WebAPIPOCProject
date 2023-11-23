@@ -6,12 +6,12 @@
    <elementGuidId>5fce1a95-38f3-4943-a3ec-1b923a7b33a9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='ui-datepicker-div']/table/tbody/tr[2]/td[2]/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.ui-state-default.ui-state-hover</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='loading data.. please wait..'])[1]/preceding::a[4]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -6,12 +6,12 @@
    <elementGuidId>8530bd88-bf8d-4364-8e01-a3ffa3ea2fa0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='login-container']/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a._yb_13wu2._yb_11eva.undefined</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Sign in')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

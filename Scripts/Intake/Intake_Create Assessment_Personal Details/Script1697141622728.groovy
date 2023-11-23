@@ -23,9 +23,9 @@ WebUI.navigateToUrl('https://testportal.dsd.gov.za/SDICMS_TEST/')
 
 WebUI.click(findTestObject('Object Repository/Page_Home Page - SDICMS/a_Log in'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Login - SDICMS/input_Username_Username'), 'LLMabala')
+WebUI.setText(findTestObject('Object Repository/Page_Login - SDICMS/input_Username_Username'), 'PBBhogi')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login - SDICMS/input_Password_Password'), 'UTgtvq2BuWJZyjjfHz4pew==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login - SDICMS/input_Password_Password'), 'izeh1T69uZaYiLgzs7fH9Q==')
 
 WebUI.click(findTestObject('Object Repository/Page_Login - SDICMS/input_Change Password_ButtonSave'))
 

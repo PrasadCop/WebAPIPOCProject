@@ -17,7 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-CreateUser = WS.sendRequest(findTestObject('RestAPI/CreateUser', [('name') : 'neelima', ('job') : 'BA']))
+WebUI.openBrowser('')
 
-WS.verifyResponseStatusCode(CreateUser, 503)
+WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
+
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Make Appointment'))
+
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/div_Username_col-sm-8'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Password_password'), 'P11S1FO2cCA=')
+
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Login'))
+
+WebUI.closeBrowser()
 
